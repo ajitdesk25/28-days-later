@@ -13,3 +13,4 @@ It brings the company’s total funding to $20 million as it seeks to expand its
 
 The San Francisco-based firm is building a decentralized GPU marketplace and offering verifiable AI inference services, addressing what it sees as a critical shortage of accessible and affordable computing power for developers and researchers.
 
+More Details....(https://thenewsworld.xyz/hyperbolic-secures-12m-to-advance-decentralized-ai-infrastructure/)
